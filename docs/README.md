@@ -17,7 +17,8 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 
 # 📸 Preview
 
-![Layout do projeto](./images/layout.png)
+<img width="904" height="488" alt="image" src="https://github.com/user-attachments/assets/e3a93620-8da3-4e79-a380-3c915169425f" />
+
 
 ---
 
@@ -195,3 +196,4 @@ Ele também serve como base para evoluir para projetos com:
 * **Express**
 * **banco de dados**
 * **React**
+
